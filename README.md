@@ -71,9 +71,8 @@
 
 <div align="center">
 
-![Devix17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devon017&show_icons=true&theme=default&hide_border=true&title_color=1d9e75&icon_color=1d9e75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devon017&layout=compact&hide_border=true&title_color=1d9e75&theme=default)
+![](https://img.shields.io/github/stars/Devon017?style=flat-square&color=1d9e75&label=total%20stars)
+![](https://img.shields.io/github/followers/Devon017?style=flat-square&color=1d9e75&label=followers)
 
 </div>
 
