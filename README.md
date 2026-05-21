@@ -67,17 +67,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![](https://img.shields.io/github/stars/Devon017?style=flat-square&color=1d9e75&label=total%20stars)
-![](https://img.shields.io/github/followers/Devon017?style=flat-square&color=1d9e75&label=followers)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced AI/ML integrations
